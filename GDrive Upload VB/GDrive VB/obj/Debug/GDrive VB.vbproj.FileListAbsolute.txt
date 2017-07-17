@@ -1,0 +1,27 @@
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\GDrive VB.exe.config
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\GDrive VB.exe
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\GDrive VB.pdb
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\GDrive VB.xml
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.Auth.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.Core.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.Drive.v2.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Newtonsoft.Json.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\System.Net.Http.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.xml
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.Auth.xml
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.Core.xml
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Google.Apis.Drive.v2.xml
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\bin\Debug\Newtonsoft.Json.xml
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\obj\Debug\GDrive VB.vbprojResolveAssemblyReference.cache
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\obj\Debug\GDrive_VB.Resources.resources
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\obj\Debug\GDrive VB.vbproj.GenerateResource.Cache
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\obj\Debug\GDrive VB.exe
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\obj\Debug\GDrive VB.xml
+c:\users\jay\documents\visual studio 2017\Projects\GDrive VB\GDrive VB\obj\Debug\GDrive VB.pdb
