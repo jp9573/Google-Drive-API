@@ -13,8 +13,8 @@ namespace Final_Google_Drive_Download_CS
     {
         static void Main(string[] args)
         {
-            String CLIENT_ID = "983365912286-sh8ledv89ichhi44qneojh9fh2bqceej.apps.googleusercontent.com";
-            String CLIENT_SECRET = "5djZp6WaOqb4hJSva0ytRKpZ";
+            String CLIENT_ID = "MyCLIENT ID";
+            String CLIENT_SECRET = "MySECRET CODE";
             DriveService service = AuthenticateOauth(CLIENT_ID, CLIENT_SECRET, Environment.UserName);
 
             string FileName = "My document";

@@ -11,8 +11,12 @@ Imports Google.Apis.Drive.v2.Data
 Module Upload
 
     Sub Main()
-        If My.Computer.Network.IsAvailable = True Then
-            Dim FilePath As String = "C:\Users\Jay\Downloads\super fast trackers.txt"
+        If My.Computer.Network.IsAvailable = True Then	        
+			Dim strFilePath As String = ""
+	        For Each argument As String In My.Application.CommandLineArgs
+	            strFilePath &= argument
+	        Next
+            Dim FilePath As String = strFilePath;
             UploadFile(FilePath)
         Else
             MsgBox("Check your Internet Connection! and try again...")
@@ -22,8 +26,8 @@ Module Upload
     Private Service As DriveService = New DriveService
 
     Private Sub CreateService()
-        Dim ClientId = "983365912286-sh8ledv89ichhi44qneojh9fh2bqceej.apps.googleusercontent.com"
-        Dim ClientSecret = "5djZp6WaOqb4hJSva0ytRKpZ"
+        Dim ClientId = "MyCLIENT ID"
+        Dim ClientSecret = "MySECRET CODE"
         Dim MyUserCredential As UserCredential = GoogleWebAuthorizationBroker.AuthorizeAsync(New ClientSecrets() With {.ClientId = ClientId, .ClientSecret = ClientSecret}, {DriveService.Scope.Drive}, "user", CancellationToken.None).Result
         Service = New DriveService(New BaseClientService.Initializer() With {.HttpClientInitializer = MyUserCredential, .ApplicationName = "Google Drive VB Dot Net"})
     End Sub
